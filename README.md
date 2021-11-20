@@ -9,7 +9,15 @@ This project is an open source implementation of an MSX2 compatible computer. Th
 
 Omega Mainboard PCB 1.1 MKV is a variant of the Mainboards 1.4US & 1.4EU by Sergey Kiselev & Jordi Solis
 
-# Changes on my PCB 1.1 MKV
+Changes on my PCB 1.1 MKV:
 
-* All "standard" capacitors, resistors & inductors are now in SMD 1206 format and placed at the bottom of the PCB.
-* 
+All "standard" capacitors, resistors & inductors are now in SMD 1206 format and placed at the bottom of the PCB.
+
+New footprints for internal/external connections:
+
+* Connector for DC-DC converter (+5v IN - +12v/-12v OUT)
+* Connector for Power ON-OFF switch
+* Two Extra Power connectors +5v
+* Two Extra Power connectors +12v/-12v
+* Connector for FM-PAC Module (AMP-GND)
+* Connector for FM-PAC Power (+12v/-12v)
