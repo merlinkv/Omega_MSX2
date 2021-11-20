@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name Omega-Mainboard-rescue)(type Legacy)(uri ${KIPRJMOD}/Omega-Mainboard-rescue.lib)(options "")(descr ""))
-)
