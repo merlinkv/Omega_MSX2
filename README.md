@@ -15,8 +15,8 @@ All "standard" capacitors, resistors & inductors are now in SMD 1206 format and 
 
 New footprints for internal/external connections:
 
-* 5-pin connector for DC-DC converter (+5v IN - +12v/-12v OUT)
-* 2-pin connector for Power ON-OFF switch
+* 5-pins connector for DC-DC converter (+5v IN - +12v/-12v OUT)
+* 2-pins connector for Power ON-OFF switch
 * Two Extra Power connectors +5v (2-pins)
 * Two Extra Power connectors +12v/-12v (3-pins)
 * Connector for FM-PAC Module (AMP-GND, 2-pins)
