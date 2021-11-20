@@ -30,10 +30,10 @@ New footprints for internal/external connections:
 
 # Routing parameters
 
-Clearance -> 0.25mm
-Default -> Track 0.35mm, Via size 0.8mm, Via drill 0.4mm
-Power (+5v y GND) -> Track 1.1mm, Via size 1.1mm, Via drill 0.5mm
-Power2 (+12v y -12v) -> Track 0.9mm, Via size 0.9mm, Via drill 0.5mm
+* Clearance -> 0.25mm
+* Default -> Track 0.35mm, Via size 0.8mm, Via drill 0.4mm
+* Power (+5v y GND) -> Track 1.1mm, Via size 1.1mm, Via drill 0.5mm
+* Power2 (+12v y -12v) -> Track 0.9mm, Via size 0.9mm, Via drill 0.5mm
 
 # Links
 
