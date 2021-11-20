@@ -21,3 +21,9 @@ New footprints for internal/external connections:
 * Two Extra Power connectors +12v/-12v
 * Connector for FM-PAC Module (AMP-GND)
 * Connector for FM-PAC Power (+12v/-12v)
+* Connector for RGB & Composite video
+* Connector for S-Video
+* Connector for Audio
+* Separate connectors for NMI & RESET
+* NMI signal connected to pin 44 of each slots (MSX3 Update?)
+* FDD Power Connector (+5v/+12v)
