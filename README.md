@@ -37,6 +37,12 @@ New footprints for internal/external connections:
 * Power (+5v y GND) -> Track 1.1mm, Via size 1.1mm, Via drill 0.5mm
 * Power2 (+12v y -12v) -> Track 0.9mm, Via size 0.9mm, Via drill 0.5mm
 
+# Notes
+
+* Electrolytic capacitors: I recommend to use High Frequency and Low ESR ones.
+* SMD resistors: Best is to use ones with 1% tolerance. All must be 1/4w.
+* SMD capacitors: I recommend to use X7R type (10%) or less tolerance.
+
 # Links
 
 * https://www.winuaespanol.com/phpbb3/viewtopic.php?p=13291#p13291
