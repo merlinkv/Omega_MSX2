@@ -20,7 +20,7 @@ New footprints for internal/external connections:
 * 5-pins connector for DC-DC converter (+5v IN - +12v/-12v OUT)
 * 2-pins connector for Power ON-OFF switch
 * Two Extra Power connectors +5v (2-pins)
-* Two Extra Power connectors +12v/-12v (3-pins)
+* One Extra Power connector +12v/-12v (3-pins)
 * Connector for FM-PAC Module (AMP-GND, 2-pins)
 * Connector for FM-PAC Power (+12v/-12v, 3-pins)
 * Connector for RGB & Composite video (5-pins)
