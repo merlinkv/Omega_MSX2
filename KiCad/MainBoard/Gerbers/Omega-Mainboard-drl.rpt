@@ -1,5 +1,5 @@
 Drill report for E:\PCBs\MSX\OmegaMSX_1_1MKV\Mainboard\Omega-Mainboard.kicad_pcb
-Created on 20-11-2021 1:33:02 PM
+Created on 22-11-2021 6:51:32 AM
 
 Copper Layer Stackup:
     =============================================================
@@ -10,8 +10,8 @@ Copper Layer Stackup:
 Drill file 'Omega-Mainboard-PTH.drl' contains
     plated through holes:
     =============================================================
-    T1  0,40mm  0,016"  (579 holes)
-    T2  0,50mm  0,020"  (37 holes)
+    T1  0,40mm  0,016"  (622 holes)
+    T2  0,50mm  0,020"  (26 holes)
     T3  0,64mm  0,025"  (64 holes)
     T4  0,80mm  0,031"  (994 holes)
     T5  0,81mm  0,032"  (30 holes)
@@ -28,7 +28,7 @@ Drill file 'Omega-Mainboard-PTH.drl' contains
     T16  3,05mm  0,120"  (2 holes)
     T17  3,20mm  0,126"  (4 holes)
 
-    Total plated holes count 2045
+    Total plated holes count 2077
 
 
 Drill file 'Omega-Mainboard-NPTH.drl' contains

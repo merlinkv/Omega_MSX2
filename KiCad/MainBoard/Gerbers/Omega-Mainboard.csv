@@ -1,6 +1,6 @@
 "Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
-1;"REF**,REF**";"Symbol_GNU-Logo_SilkscreenTop";2;"Symbol_GNU-Logo_SilkscreenTop";;;
-2;"REF**,REF**";"OSHW-Logo_7.5x8mm_SilkScreen";2;"OSHW-Logo_7.5x8mm_SilkScreen";;;
+1;"REF04,REF03";"Symbol_GNU-Logo_SilkscreenTop";2;"Symbol_GNU-Logo_SilkscreenTop";;;
+2;"REF02,REF01";"OSHW-Logo_7.5x8mm_SilkScreen";2;"OSHW-Logo_7.5x8mm_SilkScreen";;;
 3;"HOLE11,HOLE10,HOLE9,HOLE8,HOLE7,HOLE6,HOLE5,HOLE4,HOLE3,HOLE2,HOLE1";"MountingHole_3mm_Pad";11;"HOLE";;;
 4;"J10";"Molex_KK-254_AE-6410-05A_1x05_P2.54mm_Vertical";1;"POWER";;;
 5;"J26";"Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical";1;"PWR_SWITCH";;;
