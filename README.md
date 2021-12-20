@@ -11,7 +11,7 @@ At the moment still unchanged from the original design.
 
 # Mainboard PCB 1.2 MKV
 
-* Added possibility to use up to four different ROMs (two PLLC32 IC's).
+* Added possibility to use up to four different ROMs (two PLCC32 IC's).
 * Added extra footprints for ROM selection switches.
 * Changed routing parameters and a couple of silk errors corrected.
 
