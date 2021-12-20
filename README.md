@@ -9,6 +9,12 @@ This project is an open source implementation of an MSX2 compatible computer. Th
 
 At the moment still unchanged from the original design.
 
+# Mainboard PCB 1.2 MKV
+
+* Added possibility to use up to four different ROMs (two PLLC32 IC's).
+* Added extra footprints for ROM selection switches.
+* Changed routing parameters and a couple of silk errors corrected.
+
 # Mainboard PCB 1.1 MKV
 
 Omega Mainboard PCB 1.1 MKV is a variant of the Mainboards 1.4US & 1.4EU by Sergey Kiselev & Jordi Solis
@@ -32,9 +38,11 @@ New footprints for internal/external connections:
 
 # Routing parameters
 
-* Default Track -> Clearance 0.25mm, Track 0.35mm, Via size 0.7mm, Via drill 0.35mm
-* Power (+5v y GND) -> Clearance 0.3mm, Track 1.1mm, Via size 1.1mm, Via drill 0.5mm
-* Power2 (+12v y -12v) -> Clearance 0.3mm, Track 0.9mm, Via size 0.9mm, Via drill 0.5mm
+* Default Track -> Clearance 0.25mm, Track 0.3mm, Via size 0.6mm, Via drill 0.35mm
+* GND -> Clearance 0.3mm, Track 0.4mm, Via size 0.7mm, Via drill 0.35mm
+* Power (+5v) -> Clearance 0.3mm, Track 1.2mm, Via size 1.2mm, Via drill 0.5mm
+* Power2 (+12v y -12v) -> Clearance 0.3mm, Track 1mm, Via size 1mm, Via drill 0.5mm
+* VidAudOut -> Clearance 0.3mm, Track 0.5mm, Via size 0.7mm, Via drill 0.35mm
 
 # Notes
 
