@@ -42,7 +42,7 @@ New footprints for internal/external connections:
 * Default Track -> Clearance 0.25mm, Track 0.3mm, Via size 0.6mm, Via drill 0.35mm
 * GND -> Clearance 0.3mm, Track 0.4mm, Via size 0.7mm, Via drill 0.35mm
 * Power (+5v) -> Clearance 0.3mm, Track 1.2mm, Via size 1.2mm, Via drill 0.5mm
-* Power2 (+12v y -12v) -> Clearance 0.3mm, Track 1mm, Via size 1mm, Via drill 0.5mm
+* Power2 (+12v y -12v) -> Clearance 0.3mm, Track 1.1mm, Via size 1.1mm, Via drill 0.5mm
 * VidAudOut -> Clearance 0.3mm, Track 0.5mm, Via size 0.7mm, Via drill 0.35mm
 
 # Notes
