@@ -13,6 +13,7 @@ At the moment still unchanged from the original design.
 
 * Added possibility to use up to four different ROMs (two PLCC32 IC's).
 * Added extra footprints for ROM selection switches.
+* Changed internal FDD power connector to a better position.
 * Changed routing parameters and a couple of silk errors corrected.
 
 # Mainboard PCB 1.1 MKV
