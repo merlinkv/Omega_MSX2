@@ -52,6 +52,7 @@ New footprints for internal/external connections:
 * SMD capacitors: I recommend to use X7R type (10%) or less tolerance.
 * ROM: AM29F040, SST39SF040 or compatible IC's can be used.
 * SPLD's: ATF16V8B or GAL16V8B can be used without needed to use new jed's.
+* I recommend to use one 5.5v/3A PSU
 
 # Links
 
