@@ -41,9 +41,9 @@ New footprints for internal/external connections:
 
 * Default Track -> Clearance 0.25mm, Track 0.3mm, Via size 0.6mm, Via drill 0.35mm
 * GND -> Clearance 0.3mm, Track 0.4mm, Via size 0.7mm, Via drill 0.35mm
-* Power (+5v) -> Clearance 0.3mm, Track 1.2mm, Via size 1.2mm, Via drill 0.5mm
-* Power2 (+12v y -12v) -> Clearance 0.3mm, Track 1.1mm, Via size 1.1mm, Via drill 0.5mm
-* VidAudOut -> Clearance 0.3mm, Track 0.5mm, Via size 0.7mm, Via drill 0.35mm
+* Power (+5v) -> Clearance 0.3mm, Track 1.6mm, Via size 1.6mm, Via drill 0.5mm
+* Power2 (+12v y -12v) -> Clearance 0.3mm, Track 1.3mm, Via size 1.3mm, Via drill 0.5mm
+* VidAudOut -> Clearance 0.3mm, Track 0.6mm, Via size 0.7mm, Via drill 0.35mm
 
 # Notes
 
@@ -52,7 +52,7 @@ New footprints for internal/external connections:
 * SMD capacitors: I recommend to use X7R type (10%) or less tolerance.
 * ROM: AM29F040, SST39SF040 or compatible IC's can be used.
 * SPLD's: ATF16V8B or GAL16V8B can be used without needed to use new jed's.
-* I recommend to use one 5.5v/3A PSU
+* At the moment I recommend to use one 5.5v/3A PSU
 
 # Links
 
