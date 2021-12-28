@@ -37,14 +37,6 @@ New footprints for internal/external connections:
 * NMI signal connected to pin 44 of each slots (MSX3 Update?)
 * FDD Power Connector (+5v/+12v, 4-pins)
 
-# Routing parameters
-
-* Default Track -> Clearance 0.25mm, Track 0.3mm, Via size 0.6mm, Via drill 0.35mm
-* GND -> Clearance 0.3mm, Track 0.4mm, Via size 0.7mm, Via drill 0.35mm
-* Power (+5v) -> Clearance 0.3mm, Track 1.6mm, Via size 1.6mm, Via drill 0.5mm
-* Power2 (+12v y -12v) -> Clearance 0.3mm, Track 1.3mm, Via size 1.3mm, Via drill 0.5mm
-* VidAudOut -> Clearance 0.3mm, Track 0.6mm, Via size 0.7mm, Via drill 0.35mm
-
 # Notes
 
 * Electrolytic capacitors: I recommend to use High Frequency and Low ESR ones.
