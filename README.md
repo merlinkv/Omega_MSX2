@@ -9,6 +9,16 @@ This project is an open source implementation of an MSX2 compatible computer. Th
 
 At the moment still unchanged from the original design.
 
+# Mainboard PCB 1.2.5 MKV
+
+* Improved routing parameters resulting on a bit more clear video & audio. In my opinion, before the RGB image was very good, now is really great.
+* Power Switch footprint modified to, if desired, allow solder big section wires.
+* Added another Extra Power connector +5v.
+* Tested working with F4-FMPAC & o4Mega (4MB RAM) modules, internal Gotek, caretridges Carnivore 2 & TDC-600 (floppy controller) at the same time with one **5.2v/3A** PSU
+* Power Switch footprint modified to, if desired, allow solder big section wires.
+* Added another +5v Extra Power connector.
+* Tested working with F4-FMPAC & o4Mega (4MB RAM) modules, internal Gotek, cartridges Carnivore 2 & TDC-600 (floppy controller) at the same time with one **5.2v/3A** PSU
+
 # Mainboard PCB 1.2 MKV
 
 * Added possibility to use up to four different ROMs (two PLCC32 IC's).
