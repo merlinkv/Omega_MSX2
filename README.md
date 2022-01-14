@@ -45,7 +45,8 @@ New footprints for internal/external connections:
 * ROM: AM29F040, SST39SF040 or compatible IC's can be used.
 * SPLD's: ATF16V8B or GAL16V8B can be used without needed to use new jed's.
 * For power cable and power switch best is to use wires with big section.
-* At the moment I recommend to use one **5.2v/3A PSU**
+* At the moment I recommend to use one **5.2v/3A PSU**.
+* It's possible to use one **5.5v/3A** PSU (near the limits but it's inside the power range).
 
 # Links
 
