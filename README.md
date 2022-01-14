@@ -13,9 +13,6 @@ At the moment still unchanged from the original design.
 
 * Improved routing parameters resulting on a bit more clear video & audio. In my opinion, before the RGB image was very good, now is really great.
 * Power Switch footprint modified to, if desired, allow solder big section wires.
-* Added another Extra Power connector +5v.
-* Tested working with modules F4-FMPAC & o4Mega (4MB RAM), internal Gotek, cartridges Carnivore 2 & TDC-600 (floppy controller) at the same time with one **5.2v/3A** PSU
-* Power Switch footprint modified to, if desired, allow solder big section wires.
 * Added another +5v Extra Power connector.
 * Tested working with F4-FMPAC & o4Mega (4MB RAM) modules, internal Gotek, cartridges Carnivore 2 & TDC-600 (floppy controller) at the same time with one **5.2v/3A** PSU
 
