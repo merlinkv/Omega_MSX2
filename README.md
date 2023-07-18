@@ -7,7 +7,7 @@ This project is an open source implementation of an MSX2 compatible computer. Th
 
 # July 18, 2023
 
-Added new ROMs and a script for their creation.
+Added new ROMs.
 
 # Keyboard PCB 1.1
 
