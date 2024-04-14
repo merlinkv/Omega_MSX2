@@ -77,3 +77,7 @@ New footprints for internal/external connections:
 * https://msxmakers.design.blog/proyectos/omega-home-computer/
 * https://www.va-de-retro.com/foros/viewtopic.php?f=17&t=9304&start=40#p168183
 * http://retrowiki.es/viewtopic.php?f=49&t=200037057&start=32#p200145495
+
+# Images
+
+![Vwersion 1.2.6 MKV Front](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_MainBoard_1_2_6_MKV_Front.jpg)
