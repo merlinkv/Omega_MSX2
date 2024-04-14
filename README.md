@@ -5,13 +5,24 @@ Update of the Omega Home Computer Project
 
 This project is an open source implementation of an MSX2 compatible computer. The project is built using a combination of 1980's era components - Z80 CPU, V9958 VDP, AY-3-8910/YM2149F PSG, 8255 PPI, 7400-series logic, and some newer components, such as 512 KiB SRAM and 512 KiB Flash ROM and a few simple programmable logic devices (ATF16V8B SPLDs).
 
+# Keyboard PCB
+
+* 14-04-2024
+   - Version updated to 1.2 MKV
+   - Schematics, PCB and Gerbers of versions 1.5s & 1.6 successfully ported to KiCad 8.0.1
+   - The board has been rerouted.
+   - Some components are now SMD
+
+# Mainboard PCB
+
+* 14-04-2024
+   - Version updated to 1.2.6 MKV
+   - Schematics, PCB and Gerbers of versions 1.5s & 1.6 successfully ported to KiCad 8.0.1
+   - The board has been rerouted.
+
 # July 18, 2023
 
 Added new ROMs.
-
-# Keyboard PCB 1.1
-
-At the moment still unchanged from the original design.
 
 # Mainboard PCB 1.2.5 MKV
 
