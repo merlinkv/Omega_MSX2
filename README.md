@@ -74,7 +74,6 @@ New footprints for internal/external connections:
 
 * https://www.winuaespanol.com/phpbb3/viewtopic.php?p=13291#p13291
 * https://github.com/skiselev/omega
-* https://msxmakers.design.blog/proyectos/omega-home-computer/
 * https://www.va-de-retro.com/foros/viewtopic.php?f=17&t=9304&start=40#p168183
 * http://retrowiki.es/viewtopic.php?f=49&t=200037057&start=32#p200145495
 
