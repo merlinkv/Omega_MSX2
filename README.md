@@ -81,3 +81,6 @@ New footprints for internal/external connections:
 # Images
 
 ![Vwersion 1.2.6 MKV Front](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_MainBoard_1_2_6_MKV_Front.jpg)
+![Vwersion 1.2.6 MKV Back](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_MainBoard_1_2_6_MKV_Back.jpg)
+![Version 1.2 MKV Front](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_Keyboard_1_2_MKV_Front.jpg)
+![Version 1.2 MKV Back](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_Keyboard_1_2_MKV_Back.jpg)
