@@ -9,7 +9,7 @@ This project is an open source implementation of an MSX2 compatible computer. Th
 
 * 14-04-2024
    - Version updated to 1.2 MKV
-   - Schematics, PCB and Gerbers of versions 1.5s & 1.6 successfully ported to KiCad 8.0.1
+   - Schematics, PCB and Gerbers successfully ported to KiCad 8.0.1
    - The board has been rerouted.
    - Some components are now SMD
 
@@ -17,7 +17,7 @@ This project is an open source implementation of an MSX2 compatible computer. Th
 
 * 14-04-2024
    - Version updated to 1.2.6 MKV
-   - Schematics, PCB and Gerbers of versions 1.5s & 1.6 successfully ported to KiCad 8.0.1
+   - Schematics, PCB and Gerbers successfully ported to KiCad 8.0.1
    - The board has been rerouted.
 
 # July 18, 2023
