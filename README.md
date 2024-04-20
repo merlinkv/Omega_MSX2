@@ -15,10 +15,14 @@ This project is an open source implementation of an MSX2 compatible computer. Th
 
 # Mainboard PCB
 
+* 20-04-2024
+   - Version updated to 1.2.7 MKV
+   - Power lines design has been changed.
+   - Board has been re-routed.
 * 14-04-2024
    - Version updated to 1.2.6 MKV
    - Schematics, PCB and Gerbers successfully ported to KiCad 8.0.1
-   - The board has been rerouted.
+   - The board has been re-routed.
 
 # July 18, 2023
 
