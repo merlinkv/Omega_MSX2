@@ -83,7 +83,11 @@ New footprints for internal/external connections:
 
 # Images
 
-![Vwersion 1.2.6 MKV Front](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_MainBoard_1_2_7_MKV_Front.jpg)
-![Vwersion 1.2.6 MKV Back](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_MainBoard_1_2_7_MKV_Back.jpg)
+![Vwersion 1.2.7 MKV Front](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_MainBoard_1_2_7_MKV_Front.jpg)
+![Vwersion 1.2.7 MKV Back](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_MainBoard_1_2_7_MKV_Back.jpg)
+![Vwersion 1.2.7 MKV Back](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_MainBoard_1_2_7_MKV_Back.jpg)
+![Vwersion 1.2.7 MKV Back](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_MainBoard_1_2_7_MKV_+5v.jpg)
+![Vwersion 1.2.7 MKV Back](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_MainBoard_1_2_7_MKV_+12v.jpg)
+![Vwersion 1.2.7 MKV Back](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_MainBoard_1_2_7_MKV_-12v.jpg)
 ![Version 1.2 MKV Front](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_Keyboard_1_2_MKV_Front.jpg)
 ![Version 1.2 MKV Back](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_Keyboard_1_2_MKV_Back.jpg)
