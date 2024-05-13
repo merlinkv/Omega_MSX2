@@ -15,6 +15,8 @@ This project is an open source implementation of an MSX2 compatible computer. Th
 
 # Mainboard PCB
 
+* 12-05-2024
+  - Added positility to select the connection of Slots pin 44 (jumoers, J28). They can be connected to GND (normal) or to NMI.
 * 20-04-2024
    - Version updated to 1.2.7 MKV
    - Power lines design has been changed.
