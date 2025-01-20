@@ -12,6 +12,7 @@ This project is an open source implementation of an MSX2 compatible computer. Th
    - Schematics, PCB and Gerbers successfully ported to KiCad 8.0.1
    - The board has been rerouted.
    - Some components are now SMD
+   - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/merlinkv/Omega_MSX2/blob/main/Omega%20MSX%20Keyboard%201.2%20MKV.html)
 
 # Mainboard PCB
 
