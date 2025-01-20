@@ -15,8 +15,9 @@ This project is an open source implementation of an MSX2 compatible computer. Th
 
 # Mainboard PCB
 
-* 12-05-2024
+* 10-05-2024
    - Added positility to select the connection type of Slots pin 44 (by SPDT switch SW3). They can be connected to GND (normal) or to NMI.
+   - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/merlinkv/Omega_MSX2/blob/main/Omega%20MSX%20Mainboard%201.2.7%20MKV.html)
 * 20-04-2024
    - Version updated to 1.2.7 MKV
    - Power lines design has been changed.
